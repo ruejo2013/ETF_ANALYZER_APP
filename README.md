@@ -26,7 +26,9 @@ This application analyzes etf stocks in a porfolio, using pandas and sql. It sho
 
 The application is written in python programming langauge. Users need a device that can run python3 applications. Other python applications, libraries and frameworks used in this project include:
 
+
 1. jupyterlab 
+
 See requirements.txt for list of all libaries used.
 
 ## File Descriptions
